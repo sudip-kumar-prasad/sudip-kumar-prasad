@@ -86,16 +86,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-kumar-prasad&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
----
-
-# 📰 Latest Activity (Requires GitHub Action)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/main/profile-activity.svg" alt="Sudip's GitHub Activity" />
-</p>
----
-
 
 ---
 
