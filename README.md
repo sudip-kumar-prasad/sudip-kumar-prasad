@@ -1,20 +1,30 @@
+<!-- ================== ULTRA PREMIUM ANIMATED INTRO ================== -->
+
+<!-- 🔥 Animated Background Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/vmZ1mWY/particle-bg.gif" width="100%" />
+  <img src="https://i.ibb.co/7R0tC2s/neon-grid-loop.gif" width="100%" />
 </p>
 
-<div align="center">
-
-<img src="https://i.ibb.co/ygvY8WF/glass-card.png" width="650" style="border-radius: 20px;">
-
-<h2 style="font-size: 38px; margin-top: -220px; color: #00E5FF;">
-  👋 Hi, I'm <b>Sudip Kumar Prasad</b>
-</h2>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2000&pause=400&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cricket+%7C+Music+%7C+Robotics+Lover" />
+<!-- ✨ Your Name with Glow Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Sudip+Kumar+Prasad;Full+Stack+Developer;AI+%26+ML+Enthusiast;Tech+Innovator+%7C+Creator;Welcome+to+My+GitHub+Universe!" />
 </p>
 
-</div>
+<!-- 🌟 Neon Divider -->
+<p align="center">
+  <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="70%" />
+</p>
+
+<!-- ⚡ Animated Coding GIF (Center Focus) -->
+<p align="center">
+  <img src="https://i.ibb.co/4V0z0CC/coding-futuristic.gif" width="280"/>
+</p>
+
+<!-- 🌌 Subtitle -->
+<h2 align="center">🚀 Turning Ideas Into Reality | MERN + AI Projects</h2>
+
+<!-- ================================================================ -->
+
 
 
 
