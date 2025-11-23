@@ -1,40 +1,21 @@
-<!-- ================= PREMIUM INTRO CARD =================== -->
+<!-- =============== ANIMATED INTRO SECTION =============== -->
 
 <p align="center">
-  <img src="https://i.ibb.co/YB5Z4gj/neon-lines.gif" width="100%" />
+  <img src="https://i.ibb.co/F6QwgKc/animated-neon-bg.gif" width="100%" />
 </p>
 
-<div align="center">
-
-## <span style="font-size: 38px; font-weight: 700;">👋 Hi, I'm <span style="color:#00E5FF;">Sudip Kumar Prasad</span></span>
-
-<img src="https://i.ibb.co/m4rH5NC/gradient-bg.gif" width="650" style="border-radius: 20px; margin-top: 15px;">
-
-<br><br>
-
-### 🧑‍💻 Full Stack Developer (MERN)  
-### 🤖 AI & Machine Learning Enthusiast  
-### 🏏 Cricket Lover | 🎵 Music Addict | 🤖 Robotics Club Member  
-
----
-
-### 🚀 What I Do
-🔹 Build real-world web apps  
-🔹 Work with AI, ML & Computer Vision  
-🔹 Love creating clean UI + scalable backend  
-🔹 Experiment with new tech every day  
-
----
-
-### 🎯 My Goals
-✨ Launch my own **startup**  
-💼 Get into **Big Tech**  
-⚡ Build impactful tech projects  
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sudip+Kumar+Prasad;Full+Stack+Developer;AI+%26+ML+Enthusiast;Cricket+Lover+%7C+Robotics+Club+Member;Welcome+to+my+Profile!" />
+</p>
 
 <p align="center">
-  <img src="https://i.ibb.co/YB5Z4gj/neon-lines.gif" width="100%" />
+  <img src="https://i.ibb.co/BC0tN1V/neon-divider.gif" width="70%" />
+</p>
+
+## <p align="center">💡 I Build Real-World Projects Using MERN + AI</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 </p>
 
 
