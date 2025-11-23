@@ -83,14 +83,24 @@
 
 ---
 
-# ⭐ Featured Projects (With Icons + Buttons)
+<!-- ===================== ⭐ FEATURED PROJECTS ===================== -->
 
-<table>
+<h1 align="center">⭐ Featured Projects</h1>
+
+<p align="center">
+  <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="60%" />
+</p>
+
+<br/>
+
+<table align="center">
 <tr>
 <td align="center" width="50%">
 
-### 🍽️ Virtual Café System  
-<p><img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" width="150"/></p>
+<h3>🍽️ Virtual Café System</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" width="150"/>
+</p>
 <p>
   <a href="https://github.com/sudip-kumar-prasad/Virtual-Cafe-.git">
     <img src="https://img.shields.io/badge/View%20Project-%F0%9F%94%97-blue?style=for-the-badge"/>
@@ -101,8 +111,10 @@
 
 <td align="center" width="50%">
 
-### 🏃 Running Guide  
-<p><img src="https://skillicons.dev/icons?i=js,html,css" width="150"/></p>
+<h3>🏃 Running Guide</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" width="150"/>
+</p>
 <p>
   <a href="https://github.com/sudip-kumar-prasad/Runningguide.git">
     <img src="https://img.shields.io/badge/View%20Project-%F0%9F%94%97-blue?style=for-the-badge"/>
@@ -113,10 +125,12 @@
 </tr>
 
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" colspan="2">
 
-### 🎮 Hangman Game  
-<p><img src="https://skillicons.dev/icons?i=js,html,css" width="150"/></p>
+<h3>🎮 Hangman Game</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" width="150"/>
+</p>
 <p>
   <a href="https://github.com/sudip-kumar-prasad/Hangman-.git">
     <img src="https://img.shields.io/badge/View%20Project-%F0%9F%94%97-blue?style=for-the-badge"/>
@@ -127,7 +141,12 @@
 </tr>
 </table>
 
----
+<br/>
+
+<p align="center">
+  <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="40%" />
+</p>
+
 
 # 🏆 GitHub Trophies  
 <p align="center">
