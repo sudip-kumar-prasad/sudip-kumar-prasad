@@ -88,20 +88,17 @@
 
 ---
 
-## 🐍 Contribution Snake
+---
+
+# 📰 Latest Activity (Requires GitHub Action)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/main/profile-activity.svg" alt="Sudip's GitHub Activity" />
 </p>
+---
 
 
 ---
 
-# 👀 Visitor Count  
-<p align="center">
-  <img src="https://profile-counter.glitch.me/sudip-kumar-prasad/count.svg" />
-</p>
-
----
-
-🔥 **Thanks for visiting!**  
+🔥 **Thanks for visiting!**
+💬 *Always open to collaboration on MERN or AI/ML projects!*
 ⭐ *Don’t forget to star the repositories you like!*
