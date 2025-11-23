@@ -1,34 +1,42 @@
-# 🚀 About Me  
+<!-- ================= PREMIUM INTRO CARD =================== -->
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+  <img src="https://i.ibb.co/YB5Z4gj/neon-lines.gif" width="100%" />
 </p>
 
-I'm **Sudip Kumar Prasad**, a developer who loves mixing **Web Development**, **AI/ML**, and **creativity** to build projects that actually matter.
+<div align="center">
 
-### 💡 I'm Passionate About  
-🔥 MERN + AI/ML  
-🔥 Creating real-world apps  
-🔥 Exploring new tech every day  
+## <span style="font-size: 38px; font-weight: 700;">👋 Hi, I'm <span style="color:#00E5FF;">Sudip Kumar Prasad</span></span>
 
-### 🎯 My Vision  
-🚀 Build a startup  
-👨‍💻 Get into a big tech company  
-🧠 Keep innovating  
+<img src="https://i.ibb.co/m4rH5NC/gradient-bg.gif" width="650" style="border-radius: 20px; margin-top: 15px;">
 
-### 🌟 Fun Side  
-🏏 Cricket | 🎧 Music | 🤖 Robotics  
+<br><br>
 
-
-# 🔗 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/sudip-kumar-prasad/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="https://www.instagram.com/_sudip_.05_/"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
-  <a href="mailto:sudipkumarprasad2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-  <a href="https://lovely-souffle-8469b4.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify" width="50"/></a>
-</p>
+### 🧑‍💻 Full Stack Developer (MERN)  
+### 🤖 AI & Machine Learning Enthusiast  
+### 🏏 Cricket Lover | 🎵 Music Addict | 🤖 Robotics Club Member  
 
 ---
+
+### 🚀 What I Do
+🔹 Build real-world web apps  
+🔹 Work with AI, ML & Computer Vision  
+🔹 Love creating clean UI + scalable backend  
+🔹 Experiment with new tech every day  
+
+---
+
+### 🎯 My Goals
+✨ Launch my own **startup**  
+💼 Get into **Big Tech**  
+⚡ Build impactful tech projects  
+
+</div>
+
+<p align="center">
+  <img src="https://i.ibb.co/YB5Z4gj/neon-lines.gif" width="100%" />
+</p>
+
 
 # 🛠️ Tech Stack  
 
