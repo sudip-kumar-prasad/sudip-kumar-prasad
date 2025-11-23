@@ -28,34 +28,52 @@
 
 
 
-# 🛠️ Tech Stack  
+<!-- ===================== ⚡ TECH STACK ===================== -->
 
-## 🎨 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+<h1 align="center">🛠️ Tech Stack</h1>
+
+<p align="center">
+  <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="60%" />
 </p>
 
-## 🧠 Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
+<br/>
+
+<!-- 🎨 Frontend -->
+<h2 align="center">🎨 Frontend</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
 </p>
 
-## 🗄️ Database  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+<!-- 🧠 Backend -->
+<h2 align="center">🧠 Backend</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java&theme=dark" />
 </p>
 
-## ⚙️ Tools & DevOps  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" />
+<!-- 🗄️ Database -->
+<h2 align="center">🗄️ Database</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
 </p>
 
-## 📚 Others  
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,opencv,tensorflow" />
+<!-- ⚙️ Tools & DevOps -->
+<h2 align="center">⚙️ Tools & DevOps</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&theme=dark" />
 </p>
 
----
+<!-- 📚 Others -->
+<h2 align="center">📚 Others</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,opencv,tensorflow&theme=dark" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="40%" />
+</p>
+
 
 # 🎞 Profile GIF Section  
 
