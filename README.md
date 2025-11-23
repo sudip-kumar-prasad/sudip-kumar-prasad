@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C95CFF&center=true&width=900&lines=Hey+there+👋,+I'm+Sudip+Kumar+Prasad!;Full+Stack+Developer+|+AI+%26+ML+Enthusiast;Passionate+Coder+%26+Cricket+Lover;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=C9F5FC&center=true&vCenter=true&width=900&lines=Hey+there+👋;I'm+Sudip+Kumar+Prasad;Full+Stack+Developer;AI+%26+ML+Enthusiast;Cricket+Lover+%7C+Coder;Welcome+to+My+GitHub+Profile!" />
 </p>
 
 ---
