@@ -1,22 +1,21 @@
-<!-- =============== ANIMATED INTRO SECTION =============== -->
-
 <p align="center">
-  <img src="https://i.ibb.co/F6QwgKc/animated-neon-bg.gif" width="100%" />
+  <img src="https://i.ibb.co/vmZ1mWY/particle-bg.gif" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sudip+Kumar+Prasad;Full+Stack+Developer;AI+%26+ML+Enthusiast;Cricket+Lover+%7C+Robotics+Club+Member;Welcome+to+my+Profile!" />
+<div align="center">
+
+<img src="https://i.ibb.co/ygvY8WF/glass-card.png" width="650" style="border-radius: 20px;">
+
+<h2 style="font-size: 38px; margin-top: -220px; color: #00E5FF;">
+  👋 Hi, I'm <b>Sudip Kumar Prasad</b>
+</h2>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2000&pause=400&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cricket+%7C+Music+%7C+Robotics+Lover" />
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/BC0tN1V/neon-divider.gif" width="70%" />
-</p>
+</div>
 
-## <p align="center">💡 I Build Real-World Projects Using MERN + AI</p>
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
-</p>
 
 
 # 🛠️ Tech Stack  
