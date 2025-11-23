@@ -1,28 +1,23 @@
 # 🚀 About Me  
 
 <p align="center">
-  <img src="https://i.gifer.com/7ImY.gif" width="180" />
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 </p>
 
-Hi! I'm **Sudip Kumar Prasad**, a passionate **Full Stack Developer** and **AI/ML Enthusiast** who loves turning ideas into real, working projects.  
-I enjoy building modern web apps, exploring AI, and constantly learning new technologies.
+I'm **Sudip Kumar Prasad**, a developer who loves mixing **Web Development**, **AI/ML**, and **creativity** to build projects that actually matter.
 
----
+### 💡 I'm Passionate About  
+🔥 MERN + AI/ML  
+🔥 Creating real-world apps  
+🔥 Exploring new tech every day  
 
-### 🔥 What I Do
-- 💻 Full Stack Development (MERN + AI Integrations)  
-- 🤖 Machine Learning & Computer Vision Projects  
-- ⚙️ Build practical, real-world applications  
+### 🎯 My Vision  
+🚀 Build a startup  
+👨‍💻 Get into a big tech company  
+🧠 Keep innovating  
 
-### 🎯 What Drives Me  
-- 🚀 Dreaming of launching a **startup**  
-- 🎯 Aiming for **Big Tech roles**  
-- 🧠 Passion for **innovation & problem-solving**
-
-### 🎉 Beyond Tech  
-- 🏏 Cricket Lover  
-- 🎵 Music Addict  
-- 🤖 Robotics Club Member  
+### 🌟 Fun Side  
+🏏 Cricket | 🎧 Music | 🤖 Robotics  
 
 
 # 🔗 Connect With Me  
