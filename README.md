@@ -1,40 +1,29 @@
-<!-- ============================================================ -->
-<!--                 🌟 PREMIUM NEON GITHUB PROFILE                -->
-<!-- ============================================================ -->
+# 🚀 About Me  
 
-<!-- 🔥 ANIMATED BANNER -->
 <p align="center">
-  <img src="https://i.ibb.co/2tRzF2t/neon-tech-banner.gif" width="100%" />
+  <img src="https://i.gifer.com/7ImY.gif" width="180" />
 </p>
 
-<!-- 🚀 CUSTOM BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-%F0%9F%92%BB-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-%F0%9F%A4%96-ff007f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-%F0%9F%9A%80-00eaff?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=sudip-kumar-prasad&style=for-the-badge&color=1e90ff" />
-</p>
+Hi! I'm **Sudip Kumar Prasad**, a passionate **Full Stack Developer** and **AI/ML Enthusiast** who loves turning ideas into real, working projects.  
+I enjoy building modern web apps, exploring AI, and constantly learning new technologies.
 
 ---
 
-# 👨‍💻 About Me  
+### 🔥 What I Do
+- 💻 Full Stack Development (MERN + AI Integrations)  
+- 🤖 Machine Learning & Computer Vision Projects  
+- ⚙️ Build practical, real-world applications  
 
-<p align="center">
-  <img src="https://i.gifer.com/7ImY.gif" width="150">
-</p>
+### 🎯 What Drives Me  
+- 🚀 Dreaming of launching a **startup**  
+- 🎯 Aiming for **Big Tech roles**  
+- 🧠 Passion for **innovation & problem-solving**
 
-<p align="center">
-  <b>Hi, I'm Sudip Kumar Prasad</b><br>
-  Full Stack Developer | AI & ML Enthusiast | Cricket Lover  
-</p>
+### 🎉 Beyond Tech  
+- 🏏 Cricket Lover  
+- 🎵 Music Addict  
+- 🤖 Robotics Club Member  
 
-- 🎓 B.Tech CSE (AI & ML)  
-- 💡 Passionate about building **real-world projects**  
-- 🧠 Love exploring **AI, ML, and modern web tech**  
-- 🤖 Member of Robotics Club  
-- 🚀 Career Goals: Startup | Big Tech | Impactful Innovations  
-
----
 
 # 🔗 Connect With Me  
 <p align="center">
