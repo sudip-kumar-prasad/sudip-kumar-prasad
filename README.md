@@ -75,14 +75,6 @@
 </p>
 
 
-# 🎞 Profile GIF Section  
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/26/267b50c7da9b0e93cf9f5a353a811e76_w200.gif" width="300"/>
-</p>
-
----
-
 <!-- ===================== ⭐ FEATURED PROJECTS ===================== -->
 
 <h1 align="center">⭐ Featured Projects</h1>
