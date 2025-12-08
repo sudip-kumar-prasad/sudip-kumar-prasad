@@ -15,54 +15,42 @@
   <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="70%" />
 </p>
 
-<!-- ⚡ Animated Coding GIF (Center Focus) -->
+<!-- ⚡ Animated Coding GIF -->
 <p align="center">
   <img src="https://i.ibb.co/4V0z0CC/coding-futuristic.gif" width="280"/>
 </p>
 
-<!-- 🌌 Subtitle -->
 <h2 align="center">🚀 Turning Ideas Into Reality | MERN + AI Projects</h2>
 
 <!-- ================================================================ -->
 
-
-
-
-<!-- ===================== ⚡ TECH STACK ===================== -->
-
 <h1 align="center">🛠️ Tech Stack</h1>
-
 <p align="center">
   <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="60%" />
 </p>
 
 <br/>
 
-<!-- 🎨 Frontend -->
 <h2 align="center">🎨 Frontend</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
 </p>
 
-<!-- 🧠 Backend -->
 <h2 align="center">🧠 Backend</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,java&theme=dark" />
 </p>
 
-<!-- 🗄️ Database -->
 <h2 align="center">🗄️ Database</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
 </p>
 
-<!-- ⚙️ Tools & DevOps -->
 <h2 align="center">⚙️ Tools & DevOps</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&theme=dark" />
 </p>
 
-<!-- 📚 Others -->
 <h2 align="center">📚 Others</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,opencv,tensorflow&theme=dark" />
@@ -74,11 +62,9 @@
   <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="40%" />
 </p>
 
-
 <!-- ===================== ⭐ FEATURED PROJECTS ===================== -->
 
 <h1 align="center">⭐ Featured Projects</h1>
-
 <p align="center">
   <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="60%" />
 </p>
@@ -139,15 +125,17 @@
   <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="40%" />
 </p>
 
+<!-- ===================== 🏆 GitHub Trophies ===================== -->
 
-# 🏆 GitHub Trophies  
+<h1 align="center">🏆 GitHub Trophies</h1>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sudip-kumar-prasad&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-# 🔥 GitHub Analytics  
+# 🔥 GitHub Analytics
 
 ### 🔥 Streak Stats  
 <p align="center">
@@ -156,24 +144,24 @@
 
 ### 📈 Overall Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudip-kumar-prasad&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats-git-master-org.vercel.app/api?username=sudip-kumar-prasad&show_icons=true&theme=react&hide_border=true" />
 </p>
 
 ### 📊 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-kumar-prasad&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats-git-master-org.vercel.app/api/top-langs/?username=sudip-kumar-prasad&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
 
+# 🐍 GitHub Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-
 
 ---
 
 # 🎉 Thanks for Visiting!  
 ⭐ *Don’t forget to star the repos you like!*  
 🤝 *Open to MERN & AI/ML collaborations!*  
+
