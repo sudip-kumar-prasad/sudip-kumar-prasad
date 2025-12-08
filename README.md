@@ -155,10 +155,7 @@
 ---
 
 # 🐍 GitHub Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
+<p align="center"> <img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/output/github-contribution-grid-snake-dark.svg" /> </p>
 ---
 
 # 🎉 Thanks for Visiting!  
