@@ -1,164 +1,69 @@
-<!-- ================== ULTRA PREMIUM ANIMATED INTRO ================== -->
-
-<!-- 🔥 Animated Background Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/7R0tC2s/neon-grid-loop.gif" width="100%" />
-</p>
-
-<!-- ✨ Your Name with Glow Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Sudip+Kumar+Prasad;Full+Stack+Developer;AI+%26+ML+Enthusiast;Tech+Innovator+%7C+Creator;Welcome+to+My+GitHub+Universe!" />
-</p>
-
-<!-- 🌟 Neon Divider -->
-<p align="center">
-  <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="70%" />
-</p>
-
-<!-- ⚡ Animated Coding GIF -->
-<p align="center">
-  <img src="https://i.ibb.co/4V0z0CC/coding-futuristic.gif" width="280"/>
-</p>
-
-<h2 align="center">🚀 Turning Ideas Into Reality | MERN + AI Projects</h2>
-
-<!-- ================================================================ -->
-
-<h1 align="center">🛠️ Tech Stack</h1>
-<p align="center">
-  <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="60%" />
-</p>
-
-<br/>
-
-<h2 align="center">🎨 Frontend</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
-</p>
-
-<h2 align="center">🧠 Backend</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java&theme=dark" />
-</p>
-
-<h2 align="center">🗄️ Database</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
-</p>
-
-<h2 align="center">⚙️ Tools & DevOps</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&theme=dark" />
-</p>
-
-<h2 align="center">📚 Others</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,opencv,tensorflow&theme=dark" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="40%" />
-</p>
-
-<!-- ===================== ⭐ FEATURED PROJECTS ===================== -->
-
-<h1 align="center">⭐ Featured Projects</h1>
-<p align="center">
-  <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="60%" />
-</p>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-<h3>🍽️ Virtual Café System</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" width="150"/>
-</p>
-<p>
-  <a href="https://github.com/sudip-kumar-prasad/Virtual-Cafe-.git">
-    <img src="https://img.shields.io/badge/View%20Project-%F0%9F%94%97-blue?style=for-the-badge"/>
+<div align="center">
+  <h1 align="center">Hi there, I'm Sudip Kumar Prasad! 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-</td>
-
-<td align="center" width="50%">
-
-<h3>🏃 Running Guide</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" width="150"/>
-</p>
-<p>
-  <a href="https://github.com/sudip-kumar-prasad/Runningguide.git">
-    <img src="https://img.shields.io/badge/View%20Project-%F0%9F%94%97-blue?style=for-the-badge"/>
+<div align="center">
+  <br />
+  <a href="mailto:sudipkumarprasad@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%" colspan="2">
-
-<h3>🎮 Hangman Game</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" width="150"/>
-</p>
-<p>
-  <a href="https://github.com/sudip-kumar-prasad/Hangman-.git">
-    <img src="https://img.shields.io/badge/View%20Project-%F0%9F%94%97-blue?style=for-the-badge"/>
+  <a href="https://linkedin.com/in/sudip-kumar-prasad">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+  <a href="https://sudip-kumar-prasad.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-</td>
-</tr>
-</table>
+<br />
 
-<br/>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://i.ibb.co/2Pxh4V6/neon-line.gif" width="40%" />
-</p>
+I am a passionate **Full Stack Developer** and **AI/ML Enthusiast** with a strong foundation in building scalable web applications and intelligent systems. I love contributing to open source and solving complex problems.
 
-<!-- ===================== 🏆 GitHub Trophies ===================== -->
-
-<h1 align="center">🏆 GitHub Trophies</h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudip-kumar-prasad&theme=radical&no-frame=true&margin-w=15" />
-</p>
+- 🔭 I’m currently working on **Health_Guide** and enhancing my **Portfolio**.
+- 🌱 I’m currently learning **Advanced Machine Learning** and **Cloud Architecture**.
+- 👯 I’m looking to collaborate on **Open Source AI Projects**.
+- 💬 Ask me about **React, Node.js, Python, and Deep Learning**.
 
 ---
 
-# 🔥 GitHub Analytics
+## 🛠️ Languages and Tools
 
-### 🔥 Streak Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudip-kumar-prasad&theme=neon-dark&hide_border=true" />
-</p>
-
-### 📈 Overall Stats  
-<p align="center">
-  <img src="https://github-readme-stats-git-master-org.vercel.app/api?username=sudip-kumar-prasad&show_icons=true&theme=react&hide_border=true" />
-</p>
-
-### 📊 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats-git-master-org.vercel.app/api/top-langs/?username=sudip-kumar-prasad&layout=compact&theme=react&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css,react,nextjs,nodejs,express,mongodb,postgresql,mysql,git,docker,aws,linux,vscode,pytorch,tensorflow" />
+</div>
 
 ---
 
-# 🐍 GitHub Contribution Snake  
-<p align="center"> <img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/output/github-contribution-grid-snake-dark.svg" /> </p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudip-kumar-prasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-kumar-prasad&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-kumar-prasad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
 ---
 
-# 🎉 Thanks for Visiting!  
-⭐ *Don’t forget to star the repos you like!*  
-🤝 *Open to MERN & AI/ML collaborations!*  
+## 🏆 Featured Projects
 
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Health_Guide](https://github.com/sudip-kumar-prasad/Health_Guide)** | A comprehensive healthcare platform for finding doctors and facilities. | React, Node.js, MongoDB |
+| **[CrickBoard](https://github.com/sudip-kumar-prasad/CrickBoard)** | Real-time cricket scoreboard and management system. | React, Firebase |
+| **[Portfolio](https://github.com/sudip-kumar-prasad/Portfolio)** | Personal showcase of projects and skills. | HTML, CSS, JavaScript |
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudip-kumar-prasad&style=flat-square&color=blue" alt="Profile Views" />
+</div>
