@@ -96,7 +96,7 @@ I am a passionate <b>Full Stack Developer</b> and <b>AI/ML Enthusiast</b> with a
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/sudip-kumar-prasad/Health_Guide">
-<img src="./assets/health_guide.png" alt="Health_Guide" width="100%" />
+<img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/main/assets/health_guide_banner_1770899270406.png" alt="Health_Guide" width="100%" />
 </a>
 </td>
 <td width="50%" valign="top">
@@ -112,7 +112,7 @@ I am a passionate <b>Full Stack Developer</b> and <b>AI/ML Enthusiast</b> with a
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/sudip-kumar-prasad/CrickBoard">
-<img src="./assets/crickboard.png" alt="CrickBoard" width="100%" />
+<img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/main/assets/crickboard_banner_1770899202809.png" alt="CrickBoard" width="100%" />
 </a>
 </td>
 <td width="50%" valign="top">
@@ -127,7 +127,7 @@ I am a passionate <b>Full Stack Developer</b> and <b>AI/ML Enthusiast</b> with a
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/sudip-kumar-prasad/Portfolio">
-<img src="./assets/portfolio.png" alt="Portfolio" width="100%" />
+<img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/main/assets/portfolio_banner_1770899218497.png" alt="Portfolio" width="100%" />
 </a>
 </td>
 <td width="50%" valign="top">
