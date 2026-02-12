@@ -41,10 +41,10 @@ I am a passionate <b>Full Stack Developer</b> and <b>AI/ML Enthusiast</b> with a
 </td>
 <td align="center" width="45%" valign="top">
 <h2>📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=sudip-kumar-prasad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sudip-kumar-prasad&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
 <br/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-kumar-prasad&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-kumar-prasad&theme=radical" alt="GitHub Streak" width="100%" />
 </td>
 </tr>
 </table>
