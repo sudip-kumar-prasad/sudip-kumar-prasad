@@ -153,12 +153,6 @@ I am a passionate <b>Full Stack Developer</b> and <b>AI/ML Enthusiast</b> with a
 <br/>
 <br/>
 
-<h2>🐍 Contribution Graph</h2>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
 <br/>
 
 <div align="center">
