@@ -1,154 +1,54 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I%27m%20Sudip%20Kumar%20Prasad&descAlignY=55&descAlign=60" width="100%"/>
+![<h1 align="center">Hi 👋, I'm Sudip Kumar Prasad</h1> <h3 align="center">🚀 B.Tech CSE (AI & ML) Student | Aspiring Software Developer</h3>](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=sudip-kumar-prasad&label=Profile%20views&color=0e75b6&style=flat)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        <h1 align="center">Hi 👋, I'm Sudip Kumar Prasad</h1> <h3 align="center">🚀 B.Tech CSE (AI & ML) Student | Aspiring Software Developer</h3>
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-<div align="center">
-<br/>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
-</a>
-</div>
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<div align="center">
-<br/>
-<a href="mailto:sudipkumarprasad@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/sudip-kumar-prasad">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://sudip-kumar-prasad.github.io/Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
-</a>
-</div>
+ **<h3 align="left">- 🎓 B.Tech in Computer Science (AI & ML)
+- 🤖 Member of Robotics Club
+- 💡 Interested in AI, Web Development & Startups
+- 🛠️ Skilled in Python, HTML, CSS, JavaScript, React
+- 📈 Currently improving problem solving & DSA
+- 🎯 Goal: Get placed in a top tech company</h3>**
 
-<br/>
-<br/>
+**<h3 align="left">Rapid Fire</h3>**
 
-<table align="center" border="0" cellpadding="20" cellspacing="0">
-<tr>
-<td align="left" width="55%" valign="top">
-<h2>🚀 About Me</h2>
-<p>
-I am a passionate <b>Full Stack Developer</b> and <b>AI/ML Enthusiast</b> with a strong foundation in building scalable web applications and intelligent systems.
+- 💼 I'm currently working on: **🔭 Currently working on: Virtual Cafe System (React Project)**
+- 🌱 I'm currently learning: **🌱 Currently learning: Advanced React & AI concepts**
+- 💬 Ask me about: ** 💬 Ask me about: Python, Web Dev, Beginner AI/ML**
+- ⚡ Fun fact: **⚡ Fun fact: I love cricket and building cool projects ⚡**
+- 📂 Portfolio: **<a href="https://portfolio-beta-sooty-23.vercel.app/" target="_blank">https://portfolio-beta-sooty-23.vercel.app/</a>**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="28" alt="GSAP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=sushilmagare10&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
-<ul>
-<li>🔭 Working on <b>Health_Guide</b></li>
-<li>🌱 Learning <b>Advanced Machine Learning</b></li>
-<li>👯 Looking to collaborate on <b>Open Source AI</b></li>
-<li>💬 Ask me about <b>React, Node.js, Python</b></li>
-</ul>
-</td>
-<td align="center" width="45%" valign="top">
-<h2>📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=sudip-kumar-prasad&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
-<br/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-kumar-prasad&theme=radical" alt="GitHub Streak" width="100%" />
-</td>
-</tr>
-</table>
 
-<br/>
-<h2 align="center">🛠️ Tech Stack</h2>
-<div align="center">
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-<tr>
-<td align="center">
-<h3>Languages</h3>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sushilmagare10&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
-</td>
-<td align="center">
-<h3>Frontend</h3>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
-</td>
-<td align="center">
-<h3>Backend & Tools</h3>
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
-</td>
-</tr>
-</table>
-</div>
 
-<br/>
-<br/>
+ **<h3 align="left">Support Me</h3>**
 
-<h2 align="center">🏆 Featured Projects</h2>
-<div align="center">
-<table align="center" border="0" cellpadding="15" cellspacing="0" width="90%">
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/sudip-kumar-prasad/Health_Guide">
-<img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/main/assets/health_guide_banner_1770899270406.png" alt="Health_Guide" width="100%" />
-</a>
-</td>
-<td width="50%" valign="top">
-<h3>Health_Guide</h3>
-<p>A comprehensive healthcare platform designed to help users find doctors, hospitals, and pharmacies with ease. Features include appointment booking, emergency services locator, and detailed facility information.</p>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/sudip-kumar-prasad/CrickBoard">
-<img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/main/assets/crickboard_banner_1770899202809.png" alt="CrickBoard" width="100%" />
-</a>
-</td>
-<td width="50%" valign="top">
-<h3>CrickBoard</h3>
-<p>A real-time cricket scoreboard and team management system. Allows users to track matches, view player statistics, and manage tournaments effortlessly.</p>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/sudip-kumar-prasad/Portfolio">
-<img src="https://raw.githubusercontent.com/sudip-kumar-prasad/sudip-kumar-prasad/main/assets/portfolio_banner_1770899218497.png" alt="Portfolio" width="100%" />
-</a>
-</td>
-<td width="50%" valign="top">
-<h3>Portfolio</h3>
-<p>My personal portfolio website showcasing my skills, projects, and professional journey. Built with clean code and a responsive design.</p>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-<br/>
-
-<h2 align="center">💡 Random Dev Quote</h2>
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
+<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
 
 <br/>
 <br/>
