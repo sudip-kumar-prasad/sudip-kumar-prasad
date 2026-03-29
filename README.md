@@ -2,44 +2,287 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sudip-kumar-prasad&label=Profile%20views&color=0e75b6&style=flat)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        <h1 align="center">Hi 👋, I'm Sudip Kumar Prasad</h1> <h3 align="center">🚀 B.Tech CSE (AI & ML) Student | Aspiring Software Developer</h3>
-      </h1>
-    </summary>
-  </ul>
+<div align="center">
+
+```
+ ██████ ╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗
+ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██║   ██║████╗  ██║██║ ██╔╝
+ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝██║   ██║██╔██╗ ██║█████╔╝ 
+ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗ 
+ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║     ╚██████╔╝██║ ╚████║██║  ██╗
+  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SYSTEM%3A+CONNECTED;USER%3A+Sudip;ROLE%3A+B.Tech CSE (AI & ML) Student | Aspiring Software Developer;STATUS%3A+ONLINE" alt="Matrix Typing"/>
+
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="sudipkumarprasad2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sudip-kumar-prasad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+---
 
- **<h3 align="left">🎓 B.Tech in Computer Science (AI & ML)
-🤖 Member of Robotics Club
-💡 Interested in AI, Web Development & Startups 🛠️ Skilled in Python, HTML, CSS, JavaScript, React
-- 📈 Currently improving problem solving & DSA
-- 🎯 Goal: Get placed in a top tech company</h3>**
+<div align="center">
 
-**<h3 align="left">Rapid Fire</h3>**
+## ⚡ NEURAL INTERFACE ACTIVATED ⚡
 
-- 💼 I'm currently working on: **🔭 Currently working on: Virtual Cafe System (React Project)**
-- 🌱 I'm currently learning: **🌱 Currently learning: Advanced React & AI concepts**
-- 💬 Ask me about: ** 💬 Ask me about: Python, Web Dev, Beginner AI/ML**
-- ⚡ Fun fact: **⚡ Fun fact: I love cricket and building cool projects ⚡**
-- 📂 Portfolio: **<a href="https://portfolio-beta-sooty-23.vercel.app/" target="_blank">https://portfolio-beta-sooty-23.vercel.app/</a>**
+</div>
 
- **<h3 align="left">Skills</h3>**
+<img align="right" alt="Cyberpunk GIF" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="28" alt="GSAP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="28" alt="Vite" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" alt="Express" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="28" alt="Kubernetes" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="28" alt="GitLab" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="28" alt="AWS" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="PyTorch" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="Pandas" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="28" alt="Android" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="28" alt="iOS" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="28" alt="VSCode" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="28" alt="Figma" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" alt="Firebase" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="28" alt="Supabase" style="margin-right: 4px"></div>
+```bash
+> ACCESS GRANTED: Sudip Kumar Prasad
+> ALIAS: Sudip
+> CLEARANCE LEVEL: Beginner to Intermediate (Hands-on project experience)
+> LOCATION: Pune, India
+> CORPORATION: Student @ Newton School Of Technology
+> STATUS: B.Tech Student | Open to internships and entry-level opportunities
+```
 
- **<h3 align="left">GitHub Stats</h3>**
+**🔬 BIO_DATA:**  
+🚀 B.Tech CSE (AI & ML) student passionate about building real-world projects in web development and artificial intelligence. I enjoy solving problems, learning new technologies, and working on innovative ideas.
 
-<p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=sudip-kumar-prasad&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sudip-kumar-prasad&theme=default&cache_seconds=1800&border_radius=4&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=25&title_color=2F80ED&icon_color=2F80ED&text_color=434D58&border_color=E4E2E2&bg_color=black&ring_color=2F80ED&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged_percentage%2Cprs_merged&disable_animations=true&text_bold=true" alt="GitHub stats Card" />
-</p>
+**🧠 CORE_PHILOSOPHY:**  
+Technology should be accessible, ethical, and designed to improve people's lives while prioritizing user wellbeing and long-term impact.
 
- **<h3 align="left">Support Me</h3>**
+**⚡ SUPERPOWER:**  
+Improving problem-solving skills, data structures & algorithms, and building more scalable real-world projects.
 
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+**🛡️ WEAKNESS:**  
+Enhancing my problem-solving abilities, strengthening my understanding of data structures & algorithms, and gaining deeper experience in building scalable web applications.
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## 🚀 PROJECT ARCHIVES 🚀
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
+
+</div>
+
+<table>
+<tr>
+<td colspan="3">
+
+### 🌐 CLASSIFIED OPERATIONS
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 💚 Health Guide (Full-Stack AI-Based App)
+```
+STATUS: DEPLOYED
+ACCESS: PUBLIC
+```
+Developed a full-stack health guidance application using React, Node.js, Express, and MongoDB to provide symptom-based insights and recommendations.
+
+Implemented secure user authentication, RESTful APIs, and user profile management for storing and tracking health history.
+
+Designed a responsive user interface and optimized backend performance to ensure a seamless user experience and efficient data handling.
+
+**TECH_STACK:** `React, Node.js, Express, MongoDB`
+
+[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/sudip-kumar-prasad/Health_Guide)
+[![DEMO](https://img.shields.io/badge/DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](https://health-guide-8kzu.vercel.app/)
+
+</td>
+<td width="33%">
+
+#### 💜 ShopSmart (Full-Stack E-Commerce System)
+```
+STATUS: ACTIVE
+ACCESS: PUBLIC
+```
+Developed a full-stack MERN e-commerce application with secure authentication using Google OAuth 2.0 and JWT, supporting product management, cart functionality, and order processing.
+
+Implemented advanced live search and real-time filtering for 500+ products using React state management and URL query parameters.
+
+Optimized UI/UX and performance, achieving a faster and smoother browsing experience for users.
+
+**TECH_STACK:** `MongoDB, Express, React, Node.js`
+
+[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/sudip-kumar-prasad/shopsmart)
+[![DEMO](https://img.shields.io/badge/DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](https://shopsmart-sandy.vercel.app/)
+
+</td>
+<td width="33%">
+
+#### 🔵 Cricket Management App (Mobile Application)
+```
+STATUS: BETA
+ACCESS: LIMITED
+```
+Developed a mobile application for managing cricket teams, matches, and player statistics using React Native and Expo.
+
+Implemented secure authentication and real-time data synchronization using Firebase.
+
+Designed an intuitive UI with analytics dashboards and performance tracking features to enhance user engagement.
+
+**TECH_STACK:** `[Your project3Tech]`
+
+[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)]([Your project3Repo])
+[![DEMO](https://img.shields.io/badge/DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](https://drive.google.com/file/d/12SA5NBLes2z5MaWVtL4Sk2sHoDf47oQq/view)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💻 TECH ARSENAL 💻
+
+<img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="100">
+
+</div>
+
+PROGRAMMING_LANGUAGES:
+  arsenal: [![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwindcss,vite,python,nodejs,express,fastapi,mysql,mongodb,firebase,supabase,mongoose,prisma,aws,gcp,githubactions,docker,kubernetes,linux,ubuntu,reactnative,figma,photoshop,pandas,numpy,jupyter,scikitlearn,pytorch,github,git,gitlab,vscode,postman,slack)](https://skillicons.dev)
+  
+```yaml
+
+
+FRONTEND_MATRIX:
+  skills: "[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwindcss,vite)](https://skillicons.dev)"
+  
+BACKEND_CORE:
+  skills: "[![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,fastapi)](https://skillicons.dev)"
+  
+DATABASE_NODES:
+  connections: "[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,mongoose,prisma)](https://skillicons.dev)"
+  
+DEVOPS_PIPELINE:
+  automation: "Git & GitHub for version control and collaboration, with basic knowledge of Docker"
+  
+CLOUD_NETWORK:
+  infrastructure: "[![My Skills](https://skillicons.dev/icons?i=aws,gcp,githubactions,docker,kubernetes,linux,ubuntu)](https://skillicons.dev)"
+```
+
+<div align="center">
+
+### ⚡ SYSTEM STATS ⚡
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/React, JavaScript, Python-000000?style=for-the-badge&logo=code&logoColor=00FF41" alt="Primary Tech" />
+  <img src="https://img.shields.io/badge/EXP_LEVEL-Beginner to Intermediate (Hands-on project experience)-FF0080?style=for-the-badge&logoColor=white" alt="Experience Level" />
+  <img src="https://img.shields.io/badge/BEST_ACCURACY-Built and experimented with basic machine learning models, focusing on improving accuracy and understanding evaluation techniques such as precision, recall, and F1-score.-00FFFF?style=for-the-badge&logoColor=black" alt="Best Accuracy" />
+  <img src="https://img.shields.io/badge/CODING_HOURS-30-40 hours per week/week-00FF41?style=for-the-badge&logoColor=black" alt="Coding Hours" />
+
+</div>
+
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 NEURAL NETWORK ANALYTICS 📊
+
+<img src="https://github-readme-stats.vercel.app/api?username=sudip-kumar-prasad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF0080" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-kumar-prasad&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00FFFF" alt="GitHub Streak" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-kumar-prasad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" width="45%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudip-kumar-prasad&bg_color=0D1117&color=00FF41&line=FF0080&point=00FFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔬 LEARNING PROTOCOL 🔬
+
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100">
+
+</div>
+
+```bash
+> CURRENT_LEARNING_PROCESS: Advanced React, Data Structures & Algorithms, and exploring AI/ML concepts
+> MOTIVATION_CORE: Solving real-world problems through technology, continuous learning, and building projects that create value
+> OBJECTIVE_PRIMARY: Build impactful real-world projects and strengthen DSA & development skills
+> OBJECTIVE_SECONDARY: Get placed in a top tech company and grow as a software engineer
+```
+
+**⏰ NEURAL_UPTIME:** 30-40 hours per week hours/week
+
+---
+
+<div align="center">
+
+## 🌐 NETWORK CONNECTIONS 🌐
+
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
+
+<a href="https://github.com/sudip-kumar-prasad">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/sudip-kumar-prasad">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/[Your twitter]">
+  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="[Your portfolio]">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FF0080?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://discord.gg/[Your discord]">
+  <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="mailto:sudipkumarprasad2005@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 MISSION DIRECTIVE 🎯
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
+
+</div>
+
+```
+> PERSONAL_QUOTE: "I believe technology should be accessible, ethical, and built to solve real-world problems while enhancing user wellbeing and creating meaningful impact."
+> HIDEOUT_LOCATION: GitHub for building and exploring projects, and YouTube for learning new tech and staying inspired.
+> CONNECTION_STATUS: ALWAYS_ONLINE
+> COLLABORATION_MODE: ENABLED
+```
+
+---
+
+<div align="center">
+
+### ⚡ SYSTEM MONITORING ⚡
+
+<img src="https://komarev.com/ghpvc/?username=sudip-kumar-prasad&color=00FF41&style=for-the-badge&label=NEURAL+CONNECTIONS" alt="Profile Views"/>
+
+<img src="https://github-trophies.vercel.app/?username=sudip-kumar-prasad&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+
+```
+> STATUS: ONLINE AND READY FOR COLLABORATION
+> LAST_SEEN: JUST NOW
+> NEXT_MISSION: BUILDING THE FUTURE
+```
+
+<img src="https://media.giphy.com/media/xUA7aM09ByyR1w5YWc/giphy.gif" width="400">
+
+</div>
+
+---
+
+<div align="center">
+
+```
+END OF FILE
+```
+
+</div>
