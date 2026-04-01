@@ -273,7 +273,6 @@ CLOUD_NETWORK:
 > NEXT_MISSION: BUILDING THE FUTURE
 ```
 
-<img src="https://media.giphy.com/media/xUA7aM09ByyR1w5YWc/giphy.gif" width="400">
 
 </div>
 
