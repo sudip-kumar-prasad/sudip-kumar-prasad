@@ -184,7 +184,7 @@ CLOUD_NETWORK:
 ## 📊 NEURAL NETWORK ANALYTICS 📊
 
 <img src="https://github-readme-stats.vercel.app/api?username=sudip-kumar-prasad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF0080" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-kumar-prasad&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00FFFF" alt="GitHub Streak" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=sudip-kumar-prasad&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00FFFF" alt="GitHub Streak" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-kumar-prasad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" width="45%"/>
 
